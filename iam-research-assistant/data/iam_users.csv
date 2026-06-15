@@ -1,0 +1,21 @@
+UserID,Name,Department,Role,RiskLevel,Status,Manager,Location,LastLoginDaysAgo,BirthrightAccess,PrivilegedAccess,SoDViolation,CertificationStatus
+U001,Ramesh Kumar,IT,Domain Admin,High,Active,Suresh,Chennai,2,Yes,Yes,No,Certified
+U002,Priya Nair,Finance,Finance Analyst,Medium,Active,Rajesh,Bangalore,5,Yes,No,No,Certified
+U003,Arun Kumar,HR,HR Executive,Low,Active,Meena,Chennai,1,Yes,No,No,Certified
+U004,Deepa Sharma,IT,System Administrator,High,Inactive,Suresh,Hyderabad,120,Yes,Yes,Yes,Pending
+U005,Vijay Singh,Sales,Sales Manager,Medium,Active,Anil,Mumbai,3,Yes,No,No,Certified
+U006,Kavya Rao,Finance,SAP Admin,High,Active,Rajesh,Bangalore,15,No,Yes,Yes,Pending
+U007,Rohit Jain,IT,Developer,Low,Active,Suresh,Chennai,0,Yes,No,No,Certified
+U008,Sneha Patel,HR,HR Manager,Medium,Active,Meena,Pune,10,Yes,No,No,Certified
+U009,Manoj Gupta,IT,Security Admin,High,Active,Suresh,Chennai,7,No,Yes,No,Certified
+U010,Anitha Reddy,Operations,Operations Lead,Medium,Inactive,Kiran,Hyderabad,90,Yes,No,No,Expired
+U011,Karthik V,IT,Developer,Low,Active,Suresh,Chennai,4,Yes,No,No,Certified
+U012,Lakshmi P,Finance,Auditor,Medium,Active,Rajesh,Bangalore,8,Yes,No,No,Certified
+U013,Sanjay Das,IT,Database Admin,High,Active,Suresh,Mumbai,11,No,Yes,No,Certified
+U014,Meera Joshi,HR,Recruiter,Low,Active,Meena,Pune,2,Yes,No,No,Certified
+U015,Rahul Verma,IT,Cloud Administrator,High,Active,Suresh,Chennai,6,No,Yes,Yes,Pending
+U016,Nisha Gupta,Sales,Sales Executive,Low,Inactive,Anil,Mumbai,150,Yes,No,No,Expired
+U017,Ajay Menon,Finance,Treasury Manager,High,Active,Rajesh,Bangalore,1,No,Yes,Yes,Pending
+U018,Pooja Sharma,Operations,Operations Analyst,Low,Active,Kiran,Hyderabad,12,Yes,No,No,Certified
+U019,Ganesh S,IT,Network Administrator,High,Active,Suresh,Chennai,9,No,Yes,No,Certified
+U020,Divya N,Finance,Finance Analyst,Medium,Active,Rajesh,Bangalore,3,Yes,No,No,Certified
